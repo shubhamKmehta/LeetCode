@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubhamKmehta/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shubhamKmehta/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
