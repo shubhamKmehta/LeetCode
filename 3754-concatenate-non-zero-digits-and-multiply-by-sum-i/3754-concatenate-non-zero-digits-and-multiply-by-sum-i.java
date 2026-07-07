@@ -1,23 +1,20 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        long x =0;
-        long sum =0;
-        long p= 1;
+        StringBuilder sb = new StringBuilder();
 
-        int temp=  n;
-        while(temp  > 0){
-            int digit = temp%10;
-
-            if(digit !=0){
-                x = x+ digit *p;
-                sum += digit;
-                p *= 10;
-                
+        for( char ch : String.valueOf(n).toCharArray()){
+            if(ch != '0'){
+                sb.append(ch);
             }
-            temp /= 10;
-
+        }
+        if (sb.length() == 0) return 0;
+        
+        long x = Long.parseLong(sb.toString());
+        long sum =0;
+        for(char ch : sb.toString().toCharArray()){
+            sum += (ch -'0');
         }
 
-        return x * sum;
+        return x*sum;
     }
 }
