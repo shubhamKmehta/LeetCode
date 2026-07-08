@@ -1,18 +1,13 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        StringBuilder sb = new StringBuilder();
-
-        for( char ch : String.valueOf(n).toCharArray()){
-            if(ch != '0'){
-                sb.append(ch);
-            }
-        }
-        if (sb.length() == 0) return 0;
-        
-        long x = Long.parseLong(sb.toString());
+        long x =0;
         long sum =0;
-        for(char ch : sb.toString().toCharArray()){
-            sum += (ch -'0');
+
+        for(char ch : String.valueOf(n).toCharArray()){
+            if(ch != '0'){
+                sum += ch-'0';
+                x = x*10 + ch-'0';
+            }
         }
 
         return x*sum;
