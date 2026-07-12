@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/shubhamKmehta/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/shubhamKmehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shubhamKmehta/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubhamKmehta/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamKmehta/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/shubhamKmehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamKmehta/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/shubhamKmehta/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/shubhamKmehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shubhamKmehta/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
