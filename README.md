@@ -39,6 +39,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/shubhamKmehta/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shubhamKmehta/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/shubhamKmehta/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubhamKmehta/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
@@ -93,4 +95,12 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamKmehta/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shubhamKmehta/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shubhamKmehta/LeetCode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
