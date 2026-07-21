@@ -1,43 +1,34 @@
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
-        int m = grid.length;
-        int n = grid[0].length;
-
-        int total = m * n;
-
-        k %= total;
-
-        int[][] ans = new int[m][n];
-
-        for (int i = 0; i < m; i++) {
-
-            for (int j = 0; j < n; j++) {
-
-                int index = i * n + j;
-
-                int newIndex = (index + k) % total;
-
-                int newRow = newIndex / n;
-
-                int newCol = newIndex % n;
-
-                ans[newRow][newCol] = grid[i][j];
-            }
+        int row = grid.length;
+        int col = grid[0].length;
+        int n = row* col;
+        k = k%n;
+        if(k !=0){
+            reverse(grid,col,0,n-1);
+            reverse(grid,col,0,k-1);
+            reverse(grid,col,k,n-1);
         }
-
         List<List<Integer>> result = new ArrayList<>();
-
-        for (int i = 0; i < m; i++) {
-
-            List<Integer> row = new ArrayList<>();
-
-            for (int j = 0; j < n; j++) {
-                row.add(ans[i][j]);
+        for(int[] r : grid){
+            List<Integer> rowList = new ArrayList<>();
+            for(int num : r){
+                rowList.add(num);
             }
-
-            result.add(row);
+            result.add(rowList);
         }
 
         return result;
+    }
+
+    private void reverse(int[][] grid,int col,int i,int j){
+        while(i<j){
+            int temp = grid[i/col][i%col];
+            grid[i/col][i%col] = grid[j/col][j%col];
+            grid[j/col][j%col] = temp;
+            i++;
+            j--;
+
+        }
     }
 }
