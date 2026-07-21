@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shubhamKmehta/LeetCode/tree/master/0189-rotate-array) |
 | [1260-shift-2d-grid](https://github.com/shubhamKmehta/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shubhamKmehta/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shubhamKmehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shubhamKmehta/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/shubhamKmehta/LeetCode/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamKmehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhamKmehta/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhamKmehta/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -93,6 +95,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shubhamKmehta/LeetCode/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamKmehta/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
