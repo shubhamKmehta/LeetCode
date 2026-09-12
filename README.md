@@ -15,6 +15,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamKmehta/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shubhamKmehta/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamKmehta/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamKmehta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shubhamKmehta/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/shubhamKmehta/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamKmehta/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -27,6 +28,7 @@
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/shubhamKmehta/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamKmehta/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamKmehta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/shubhamKmehta/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamKmehta/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -114,6 +116,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/shubhamKmehta/LeetCode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhamKmehta/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamKmehta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -152,4 +155,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhamKmehta/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamKmehta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
