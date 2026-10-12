@@ -76,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhamKmehta/LeetCode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamKmehta/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhamKmehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubhamKmehta/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -138,6 +139,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhamKmehta/LeetCode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamKmehta/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhamKmehta/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhamKmehta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shubhamKmehta/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
